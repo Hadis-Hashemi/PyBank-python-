@@ -1,10 +1,4 @@
 # Python Homework - Py Me Up, Charlie
-3. Inside your local git repository, create a directory for both of the  Python Challenges. Use folder names corresponding to the challenges: **PyBank** and  **PyPoll**.
-
-4. Inside of each folder that you just created, add a new file called `main.py`. This will be the main script to run for each analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
 ## PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
