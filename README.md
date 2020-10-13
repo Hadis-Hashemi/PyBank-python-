@@ -1,4 +1,4 @@
-# Python Homework - Py Me Up, Charlie
+# Python - Py Me Up, Charlie
 ## PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
